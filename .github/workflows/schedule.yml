@@ -1,6 +1,6 @@
 name: Update gist with WakaTime stats
 on:
-   # Manual triggers with workflow_dispatch
+   # Manual triggers with workflow_dispatch.
   workflow_dispatch:
   push:
   schedule:
